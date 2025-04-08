@@ -1,5 +1,3 @@
-//Dimitrios Makris, 3212019119
-
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
