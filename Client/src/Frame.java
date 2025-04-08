@@ -1,5 +1,3 @@
-//Dimitrios Makris, 3212019119
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
