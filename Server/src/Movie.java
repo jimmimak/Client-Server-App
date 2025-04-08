@@ -1,5 +1,3 @@
-//Dimitrios Makris, 3212019119
-
 import java.io.Serializable;
 
 public class Movie implements Serializable {
