@@ -1,0 +1,1 @@
+In this project I created a distributed system in Java that uses the client-server model for storing and searching movie records via Java Sockets communication. The server holds and manages the movie database, while the client interacts with it using a GUI.
