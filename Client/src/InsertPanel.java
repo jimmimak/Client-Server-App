@@ -1,5 +1,3 @@
-//Dimitrios Makris, 3212019119
-
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
